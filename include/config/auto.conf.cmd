@@ -20,7 +20,6 @@ deps_config := \
 	fs/Kconfig \
 	drivers/watchdog/Kconfig \
 	drivers/video/bridge/Kconfig \
-	drivers/video/stm32/Kconfig \
 	drivers/video/rockchip/Kconfig \
 	drivers/video/fonts/Kconfig \
 	drivers/video/Kconfig \
